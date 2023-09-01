@@ -5,7 +5,8 @@
 - the ta's are cool
 - idk i'm sure there are other good things
 
-```## Welcome to GitHub Pages
+```
+## Welcome to GitHub Pages
 # YAY
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
