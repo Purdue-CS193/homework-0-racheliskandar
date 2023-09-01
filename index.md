@@ -1,6 +1,6 @@
-### Rachel Iskandar's First CS193 Homework
+# Rachel Iskandar's First CS193 Homework
 
-# My favorite things about CS193:
+## My favorite things about CS193:
 - cs is very fun times
 - the ta's are cool
 - idk i'm sure there are other good things
